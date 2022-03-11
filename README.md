@@ -4,7 +4,7 @@ Hi 👋 My name is Jennifer Tieu
 Web Developer
 -------------
 
-I've been learning how to code for about 6 years. After changing my career from GIS (Geographic Information System) to web and software development, I've been learning HTML, CSS, and JavaScript. I'm applying the skills I learned as a GIS programmer and Geographer in Python, SQL, cartography, spatial solutions, and design to developing applications. I hope to continue to grow my skills to design and create solutions for people. I love learning new things and enjoy the challenges that being a developer brings.
+I've been learning how to code for about 5 years. After changing my career from GIS (Geographic Information System) to web and software development, I've been learning HTML, CSS, and JavaScript. I'm applying the skills I learned as a GIS programmer and Geographer in Python, SQL, cartography, spatial solutions, and design to developing applications. I hope to continue to grow my skills to design and create solutions for people. I love learning new things and enjoy the challenges that being a developer brings.
 
 * 🌍  I'm based in Houston, Texas
 * 🧠  I'm learning Node.js, Express, Bootstrap, etc. (open to learning everything)
