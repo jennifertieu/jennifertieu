@@ -1,7 +1,7 @@
 Hi 👋 My name is Jennifer Tieu
 ==============================
 
-I am a former GIS (Geographic Information System) programmer and Geographer turned self-taught Web Developer.
+I am a self-taught Web Developer.
 
 * 🌍  I'm based in Houston, Texas
 * 🧠  I'm currently learning HTML, CSS, JavaScript, Node.js, and Express
