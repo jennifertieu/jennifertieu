@@ -5,7 +5,6 @@ I am a self-taught Web Developer.
 
 * 🌍  I'm based in Houston, Texas
 * 🧠  I'm improving on HTML, CSS, JavaScript, Node.js, and Express. I'm currently learning React and Solidity
-* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
