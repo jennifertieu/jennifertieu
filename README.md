@@ -4,7 +4,7 @@ Hi 👋 My name is Jennifer Tieu
 I am a self-taught Web Developer.
 
 * 🌍  I'm based in Houston, Texas
-* 🧠  I'm improving on HTML, CSS, JavaScript, Node.js, and Express. Currently, I'm learning React and Solidity.
+* 🧠  I'm improving on HTML, CSS, JavaScript, Node.js, and Express. Currently, I'm learning React and TypeScript.
 
 ### Skills
 
