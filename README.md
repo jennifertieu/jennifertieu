@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am an entry-level front-end developer passionate about solving technical problems and building user-friendly applications.
+I am a junior front-end developer that builds user-friendly applications to solve technical problems. .
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
