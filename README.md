@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a junior front-end developer that builds user-friendly applications to solve technical problems.
+I am a front-end developer that builds user-friendly applications to solve technical problems.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
