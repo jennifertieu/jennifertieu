@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a front-end developer that builds user-friendly applications to solve technical problems.
+I am a front-end developer passionate about solving technical challenges and providing an enjoyable digital experience by building well-designed, interactive user interfaces.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
