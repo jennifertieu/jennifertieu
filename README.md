@@ -1,18 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jennifer
 ================================================================================================================================
 
-Web Developer
+Frontend Developer
 -------------
 
-I am a front-end developer passionate about solving technical challenges and providing an enjoyable digital experience by building well-designed, interactive user interfaces.
+I'm a passionate front-end developer dedicated to crafting exceptional digital experiences. I specialize in creating websites and user interfaces that are well-designed, performant, and adhere to accessibility and SEO practices.
 
-* 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
 
 <a href="https://www.twitter.com/jteacodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+
 ### Skills
 
 <p align="left">
@@ -25,8 +26,23 @@ src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
+
+### About
+
+🎨 Design-Driven: I believe great design is at the heart of every successful digital product.
+
+💻 Performance Optimizer: I thrive on the challenge of optimizing website performance and understand that speed matters in today's digital world to deliver a seamless user experience.
+
+♿ Accessibility Advocate: Inclusivity is a top priority for me. I'm dedicated to making the web accessible to everyone, regardless of their abilities. 
+
+📱 Responsiveness Expert: With the ever-growing variety of devices and screen sizes, I ensure that my creations are fully responsive.
+
+🎨 Visually Pleasing: Aesthetics matter to me. I appreciate the art of visual storytelling and apply it to my work.
+
+🚀 Interactivity Enthusiast: I love building interactive elements that engage users and provide a fun user experience.
+
+🌐 Let's Connect: I'm excited to collaborate with innovative teams and individuals who share a passion for creating exceptional web experiences.  
 
 ### Socials
 
