@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-
 
 🎨 Visually Pleasing: Aesthetics matter to me. I appreciate the art of visual storytelling and apply it to my work.
 
-🚀 Interactivity Enthusiast: I love building interactive elements that engage users and provide a fun user experience.
+🚀 Interactivity: I love building interactive elements that engage users and provide a fun user experience.
 
 🌐 Let's Connect: I'm excited to collaborate with innovative teams and individuals who share a passion for creating exceptional web experiences.  
 
