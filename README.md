@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-
 
 💻 Performance: I thrive on the challenge of optimizing website performance and understand that speed matters in today's digital world to deliver a seamless user experience.
 
-♿ Accessibility Advocate: Inclusivity is a top priority for me. I'm dedicated to making the web accessible to everyone, regardless of their abilities. 
+♿ Accessibility Advocate: Inclusivity is a top priority for me, and I'm dedicated to making the web accessible to everyone.
 
 📱 Responsiveness: With the ever-growing variety of devices and screen sizes, I ensure that my websites and applications are fully responsive.
 
