@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-
 
 ♿ Accessibility Advocate: Inclusivity is a top priority for me. I'm dedicated to making the web accessible to everyone, regardless of their abilities. 
 
-📱 Responsiveness: With the ever-growing variety of devices and screen sizes, I ensure that my creations are fully responsive.
+📱 Responsiveness: With the ever-growing variety of devices and screen sizes, I ensure that my websites and applications are fully responsive.
 
 🎨 Visually Pleasing: Aesthetics matter to me. I appreciate the art of visual storytelling and apply it to my work.
 
