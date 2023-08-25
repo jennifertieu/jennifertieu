@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 -------------
 
-I'm a passionate front-end developer dedicated to crafting exceptional digital experiences. I specialize in creating websites and user interfaces that are well-designed, performant, and adhere to accessibility and SEO practices.
+I'm a passionate front-end developer dedicated to crafting exceptional digital experiences. I specialize in creating websites and user interfaces that are well-designed, performant, accessible, and adhere to SEO practices.
 
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
