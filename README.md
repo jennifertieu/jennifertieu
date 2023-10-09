@@ -9,8 +9,8 @@ I'm a passionate front-end developer and designer dedicated to crafting exceptio
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
 
-<a href="https://www.twitter.com/jteacodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/jennifer_tieu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jennifer_tieu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 
@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/jteacodes?logo=twitter&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.twitter.com/jteacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jennifertieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.codepen.io/jteacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/jteacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@jennifer_tieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.twitter.com/jennifer_tieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jennifertieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.codepen.io/jteacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/jteacodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@jennifer_tieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
