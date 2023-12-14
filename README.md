@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer and Designer
 -------------
 
-I'm a creative front-end developer and designer dedicated to crafting exceptional digital experiences. I specialize in creating websites and user interfaces that are well-designed, performant, accessible, and adhere to SEO practices.
+I'm a creative front-end developer and web designer specializing in helping businesses communicate their brand and create engaging experiences for their audience. I create websites that are well-designed, performant, accessible, and adhere to SEO practices.
 
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
