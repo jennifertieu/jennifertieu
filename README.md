@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jennifer
 ================================================================================================================================
 
-Frontend Developer and Designer
+Creative Frontend Developer and Web Designer
 -------------
 
 I'm a creative front-end developer and web designer specializing in helping businesses communicate their brand and create engaging experiences for their audience. I create websites that are well-designed, performant, accessible, and adhere to SEO practices.
