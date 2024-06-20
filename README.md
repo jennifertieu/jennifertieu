@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jennifer
 ================================================================================================================================
 
-Creative Frontend Developer and Web Designer
+Creative Frontend Developer
 -------------
 
-I'm a creative front-end developer and web designer specializing in helping businesses communicate their brand and create engaging experiences for their audience. I create websites that are well-designed, performant, accessible, and adhere to SEO practices.
+I'm a creative front-end developer helping people create engaging digital experiences.
 
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
@@ -30,21 +30,6 @@ src="https://img.shields.io/twitter/follow/jennifer_tieu?logo=twitter&style=for-
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 </p>
 
-### About
-
-🎨 Design-Driven: I believe great design is at the heart of every successful digital product.
-
-💻 Performance: I thrive on the challenge of optimizing website performance and understand that speed matters in today's digital world to deliver a seamless user experience.
-
-♿ Accessibility Advocate: Inclusivity is a top priority for me, and I'm dedicated to making the web accessible to everyone.
-
-📱 Responsiveness: With the ever-growing variety of devices and screen sizes, I ensure that my websites and applications are fully responsive.
-
-🎨 Visually Pleasing: Aesthetics matter to me. I appreciate the art of visual storytelling and apply it to my work.
-
-🚀 Interactivity: I love building interactive elements that engage users and provide a fun user experience.
-
-🌐 Let's Connect: I'm excited to collaborate with innovative teams and individuals who share a passion for creating exceptional web experiences.  
 
 ### Socials
 
