@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jennifer
 ================================================================================================================================
 
-Creative Frontend Developer
+Frontend Engineer
 -------------
-
-I'm a creative front-end developer helping people create engaging digital experiences.
 
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
