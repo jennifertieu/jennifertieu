@@ -9,7 +9,7 @@ I am a skilled full-stack software engineer with a front-end focus, dedicated to
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [jennifertieu.com](http://jennifertieu.com)
 * ✉️  You can contact me at [jennifer.tieuu@gmail.com](mailto:jennifer.tieuu@gmail.com)
-* 🧠  I'm learning TypeScript then Python and Java
+* 🧠  I'm learning TypeScript and Python
 * ⚡  Currently, I'm addicted to pickleball
 
 ### Skills
